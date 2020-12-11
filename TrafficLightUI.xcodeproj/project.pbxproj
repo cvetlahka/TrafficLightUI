@@ -11,6 +11,7 @@
 		520645372582352A0015B000 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520645362582352A0015B000 /* ContentView.swift */; };
 		520645392582352D0015B000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 520645382582352D0015B000 /* Assets.xcassets */; };
 		5206453C2582352D0015B000 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5206453B2582352D0015B000 /* Preview Assets.xcassets */; };
+		52064549258235EC0015B000 /* Cirkle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52064548258235EC0015B000 /* Cirkle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		520645382582352D0015B000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5206453B2582352D0015B000 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5206453D2582352D0015B000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52064548258235EC0015B000 /* Cirkle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cirkle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				520645342582352A0015B000 /* TrafficLightUIApp.swift */,
 				520645362582352A0015B000 /* ContentView.swift */,
+				52064548258235EC0015B000 /* Cirkle.swift */,
 				520645382582352D0015B000 /* Assets.xcassets */,
 				5206453D2582352D0015B000 /* Info.plist */,
 				5206453A2582352D0015B000 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52064549258235EC0015B000 /* Cirkle.swift in Sources */,
 				520645372582352A0015B000 /* ContentView.swift in Sources */,
 				520645352582352A0015B000 /* TrafficLightUIApp.swift in Sources */,
 			);
